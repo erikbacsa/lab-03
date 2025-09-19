@@ -1,6 +1,9 @@
-# CMPUT 301 : Lab 3 Participation Exercise
+# CMPUT 301 : Lab 2 Participation Exercise
 
-Erik Bacsa - ebacsa
+## Student Details
+
+- **Full Name:** `<Erik Bacsa>`
+- **CCID:** `<ebacsa>`
 
 ## References and Resources
 
